@@ -1,0 +1,19 @@
+.main-wrapper {
+  display: flex;
+}
+.headerlist {
+  display: flex;
+  justify-content: space-between;
+}
+.logotipe {
+
+}
+
+
+ul {
+	list-style: none;
+}
+
+.main-wrapper ul {
+	list-style-type: circle ;
+}
